@@ -1,0 +1,24 @@
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\HelloFromWpf.exe.config
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\HelloFromWpf.exe
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\HelloFromWpf.pdb
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\Hello world.exe
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.core.dll
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.assert.dll
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.abstractions.dll
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\Hello world.pdb
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.core.pdb
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.core.xml
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.assert.pdb
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.assert.xml
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\bin\Debug\xunit.abstractions.xml
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.csprojResolveAssemblyReference.cache
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\MainWindow.g.cs
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\App.g.cs
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf_MarkupCompile.cache
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf_MarkupCompile.lref
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\MainWindow.baml
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.g.resources
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.Properties.Resources.resources
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.csproj.GenerateResource.Cache
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.exe
+C:\Users\piatk\documents\visual studio 2015\Projects\Hello world\HelloFromWpf\obj\Debug\HelloFromWpf.pdb

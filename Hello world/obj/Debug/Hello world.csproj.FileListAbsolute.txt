@@ -1,0 +1,17 @@
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.exe.config
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.exe
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.pdb
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.abstractions.dll
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.assert.dll
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.core.dll
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.execution.desktop.dll
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.abstractions.xml
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.assert.pdb
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.assert.xml
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.core.pdb
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.core.xml
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.execution.desktop.pdb
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\xunit.execution.desktop.xml
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\Hello world.csprojResolveAssemblyReference.cache
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\Hello world.exe
+c:\users\piatk\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\Hello world.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello world", "Hello world\Hello world.csproj", "{7DFEE36B-237C-44FE-931D-0F2BC1D500F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloFromWpf", "HelloFromWpf\HelloFromWpf.csproj", "{A3CF08CA-4C39-4B17-A24B-16C5404F301A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFEE36B-237C-44FE-931D-0F2BC1D500F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFEE36B-237C-44FE-931D-0F2BC1D500F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFEE36B-237C-44FE-931D-0F2BC1D500F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFEE36B-237C-44FE-931D-0F2BC1D500F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CF08CA-4C39-4B17-A24B-16C5404F301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CF08CA-4C39-4B17-A24B-16C5404F301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CF08CA-4C39-4B17-A24B-16C5404F301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CF08CA-4C39-4B17-A24B-16C5404F301A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
